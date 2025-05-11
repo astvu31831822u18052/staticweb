@@ -1,0 +1,159 @@
+
+.bg-img{
+    background-image: url("https://img.freepik.com/free-photo/man-with-phone-outside_1303-5869.jpg?t=st=1746880526~exp=1746884126~hmac=ee2085f615a3bb6cfd21fe61aa4c6dde3888c95dd37f62f8b166320369dae076&w=740");
+    background-size: cover;
+    height: 100vh;
+}
+#nav_item1{
+    color:#323f4b;
+    font-family:"Roboto";
+    font-weight: 100;
+}
+#nav_item2{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+#nav_item3{
+    color:#323f4b;
+    font-family:"Roboto";
+}
+.logo{
+    font-family: Bree-serif;
+    font-weight: bold;
+}
+.word1{
+    font-family: "Roboto";
+    background-color: yellow;
+    width: 150px;
+    margin-left: 7px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 45px;
+}
+.word2{
+    font-family: "Roboto";
+    width: 120px;
+    margin-top: 0px;
+    margin-left: 1px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 45px;
+    color:black;
+}
+.word3{
+    font-family: "Roboto";
+    background-color: yellow;
+    width: 200px;
+    margin-left: 5px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 45px;
+}
+.custom-button{
+    background-color: black;
+    color: white;
+    width: 160px;
+    height: 46px;
+    border-radius: 10px;
+    font-family: "Roboto";
+    font-size:20px;
+    margin: 10px;
+    border-width: 0px;
+    padding: 10px;
+}
+.card-img {
+    
+    border-radius: 16px;
+}
+.newarrival{
+    font-family: "Times New Roman";
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 50px;
+}
+.card1{
+    border-radius: 16px;
+}
+
+.title{
+    font-family: "Times New Roman";
+    margin-top: 10px;
+    font-size: 45px;
+    
+}
+.description{
+    font-family: "Times New Roman";
+    margin-top: 10px;
+    font-size: 26px;
+}
+.bg-color{
+    background-color: #FFD1DC;
+    
+}
+.dress-img {
+  width: 60vh;
+  height: 70vh;
+}
+.word4{
+    font-family: "Roboto";
+    padding: 10px;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+}
+.word5{
+    font-family: "Roboto";
+    padding: 10px;
+    font-weight: bold;
+    font-size: 45px;
+}
+.word6{
+    font-family: "Roboto";
+    padding: 10px;
+    font-size: 25px;
+}
+.word7{
+    font-family: "Roboto";
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.bg-color6 {
+    background-color: #0d2436;
+}
+
+.img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
+
+.footer-title{
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+    color: #cced00;
+}
+.position {
+    font-family: "Roboto";
+    font-size: 24px;
+    color: #9aa5b1;
+}
+
+.bg-c {
+    background-color: #001c32;
+}
+.custom-button1{
+    background-color: black;
+    color: white;
+    width: 160px;
+    height: 46px;
+    border-radius: 10px;
+    font-family: "Roboto";
+    font-size:20px;
+    margin: 10px;
+    border-width: 0px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 200px;
+}
